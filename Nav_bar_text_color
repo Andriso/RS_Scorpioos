@@ -31,6 +31,7 @@ li a:hover {
 <body>
 
 <ul>
+  <li><img src="scorpioos.jpg" alt="Scorpion"></li>
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
